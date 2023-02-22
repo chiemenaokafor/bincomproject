@@ -301,7 +301,7 @@ img {
 
 @media only screen and (max-width: 500px) {
   html {
-    font-size: 30%;
+    font-size: 40%;
   }
   .employment__content {
     /* grid-template-columns: 1fr; */
